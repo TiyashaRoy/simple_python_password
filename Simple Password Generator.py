@@ -3,7 +3,7 @@ import string
 
 print("=== SIMPLE PASSWORD GENERATOR ===")
 
-length = int(input("Enter password length: "))
+length = int(input("Enter the password length: "))
 
 chars = string.ascii_letters + string.digits + string.punctuation
 
